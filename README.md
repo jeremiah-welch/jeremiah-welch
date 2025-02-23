@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremiah-welch
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, python, three.js, and a few other coding languages.
+- 🌱 I’m currently learning java for frc
 - 📫 you can email me at jeremiahwwelch@gmail.com
 
 <!---
